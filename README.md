@@ -1,5 +1,5 @@
 # MihertabDamena.github.io
-capstone project - ICT EXPO Conference page
+capstone project - JS best practices
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DamenaM/Awesome-books.git).
+Feel free to check the [issues page](https://github.com/DamenaM/to-do list.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
